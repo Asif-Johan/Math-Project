@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 header {
@@ -93,5 +94,12 @@ transition: 2s;
 @media (max-width: 900px) {
 .mt-20{
     margin-top: 30%;
+
+
 }
+
+/* textarea {
+    width: 50% !important;
+} */
+
 }
